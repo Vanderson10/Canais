@@ -5,6 +5,9 @@ http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415420?md5=null&expires=null&u=116
 #EXTINF:0, ESPN RESERVA
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415419?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 
+#EXTINF:0, ESPN RESERVA 3
+http://stream.tudogrates.ml:8880/live/espn/chunks.m3u8
+
 #EXTINF:0, ESPN 4
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415427?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 
@@ -17,6 +20,9 @@ http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415598?md5=null&expires=null&u=116
 #EXTINF:0, TNT Reserva
 http://51.222.155.102:80/EC:2C:BA:31:21:6BEC:2C:BA:31:21:6B/BR%3A%20TNT%20FHD
 
+#EXTINF:0, TNT Reserva 3
+http://stream.tudogrates.ml:8880/live/tnt/chunks.m3u8
+
 #EXTINF:0, SPACE
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415583?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 
@@ -25,6 +31,9 @@ http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415649?md5=null&expires=null&u=116
 
 #EXTINF:0, SPORTV
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/398913?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+
+#EXTINF:0, SPORTV Reserva 
+http://stream.tudogrates.ml:8880/live/sportv/chunks.m3u8
 
 #EXTINF:0, ANIMAL PLANET
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415371?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
