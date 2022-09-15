@@ -14,8 +14,20 @@ http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415427?md5=null&expires=null&u=116
 #EXTINF:0, ESPN 4
 http://srv.maxptv.net:8080/Clesia2/123456/147
 
-#EXTINF:0, PREMIERE
+#EXTINF:0, PREMIERE 1
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415711?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+
+#EXTINF:0, PREMIERE 1
+http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415710?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+
+#EXTINF:0, PREMIERE 1
+http://srv.maxptv.net:8080/Clesia2/123456/86
+
+#EXTINF:0, PREMIERE 1
+http://srv.maxptv.net:8080/Clesia2/123456/247
+
+#EXTINF:0, PREMIERE 1
+http://srv.maxptv.net:8080/Clesia2/123456/4681
 
 #EXTINF:0, TNT
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415598?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
@@ -33,9 +45,6 @@ http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415583?md5=null&expires=null&u=116
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415582?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 
 #EXTINF:0, SPACE
-http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415581?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
-
-#EXTINF:0, SPACE
 http://stream.tudogrates.ml:8880/live/space/chunks.m3u8
 
 #EXTINF:0, COMEDY CENTRAL
@@ -46,6 +55,12 @@ http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/398913?md5=null&expires=null&u=116
 
 #EXTINF:0, SPORTV
 http://stream.tudogrates.ml:8880/live/sportv/chunks.m3u8
+
+#EXTINF:0, SPORTV
+http://srv.maxptv.net:8080/Clesia2/123456/49
+
+#EXTINF:0, SPORTV
+http://srv.maxptv.net:8080/Clesia2/123456/48
 
 #EXTINF:0, ANIMAL PLANET
 http://suatv.fun:80/xuRpbskpgec7/M6Y3yqvRw4s9/415371?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
